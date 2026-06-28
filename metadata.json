@@ -1,0 +1,8 @@
+{
+  "name": "NeeDoh Shop",
+  "description": "A user-friendly store for browsing and buying unique NeeDoh sensory toys with great prices and secure payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
